@@ -1,5 +1,5 @@
-I’m Pooja M, and this repository contains my Task 1 Presentation prepared for the Cloud Engineer role as part of the Tachyon Systems second-round interview process.
-
+I’m Pooja M, and this repository contains my (Task 1) and (Task 2) Presentation prepared for the Cloud Engineer role as part of the Tachyon Systems second-round interview process.
+(Task-1)
 This project summarizes my complete understanding of the Primary and Secondary Topics related to Cloud Engineering.
 Through this task, I focused on learning the core cloud fundamentals, AWS and Azure services, Infrastructure-as-Code, and modern DevOps practices used in real-world cloud environments.
 
@@ -8,3 +8,9 @@ My goal is to demonstrate clear conceptual understanding, technical awareness, a
 This repository reflects my end-to-end understanding of the Cloud Engineer role — covering both the core and supporting cloud concepts.
 I have studied each topic with the intent to understand how cloud solutions work in real-world companies like Netflix, Uber, and Amazon.
 Though I have not built a live demo, my presentation focuses on deep conceptual understanding, architecture explanation, and practical examples across AWS and Azure platforms
+
+(Task-2)
+“My project is called Serverless Greeting Website using AWS CDK. It’s a simple web app where users enter their name and receive a personalized greeting with a random quote of the day. 
+I used AWS CDK to automate the setup of all resources — including S3, API Gateway, and Lambda — through Infrastructure as Code.
+The React frontend is hosted on S3, while the API Gateway connects it to the Lambda function, which processes and returns the greeting.
+This project helped me understand serverless architecture, cloud automation, and end-to-end deployment on AWS.”
